@@ -1,0 +1,11 @@
+            #high1 {
+            background-color: rgb(105, 211, 214);
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            border: 5px solid black;
+            padding: 10px;
+            width: 380px;
+            height: 350px;
+            background-attachment: fixed;
